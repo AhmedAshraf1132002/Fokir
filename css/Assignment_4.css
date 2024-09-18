@@ -201,7 +201,9 @@ h3 a {
 }
 
 /* second-section */
-
+.about .container{
+  margin-left: 350px;
+}
 .about .about-image {
   width: 380px;
 }
@@ -564,9 +566,12 @@ h3 a {
   margin: auto;
   right: 0;
 }
+.Blog .Blog-content .Blog-Post .hero{
+  height: 233px;
+}
 .Blog .Post-Content {
   background-color: #fff;
-  padding: 5px;
+  padding: 20px;
 }
 .Blog .Blog-content .Blog-Post {
   width: 100%;
